@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1574477274 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\control_de_empleados\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"conio.h"
+
+1578345570 c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\control_de_empleados\linkedlist.h
+
+1578345956 c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\control_de_empleados\employee.h
+	"Lisba_libreria.h"
+	"LinkedList.h"
+
+1572796705 c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\control_de_empleados\lisba_utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1533133022 c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\control_de_empleados\parser.h
+
+1574471089 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\control_de_empleados\employee.c
+	"Employee.h"
+	"LinkedList.h"
+
+1574112970 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\control_de_empleados\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1573081416 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\control_de_empleados\lisba_utn.c
+	"lisba_utn.h"
+
+1578345417 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\control_de_empleados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1574473881 c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\control_de_empleados\controller.h
+
+1573172946 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\control_de_empleados\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1578345956 c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\control_de_empleados\lisba_libreria.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578345956 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\control_de_empleados\lisba_libreria.c
+	"Lisba_libreria.h"
+
+1574477274 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\control-de-empleados\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"conio.h"
+
+1578345570 c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\control-de-empleados\linkedlist.h
+
+1578345956 c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\control-de-empleados\employee.h
+	"Lisba_libreria.h"
+	"LinkedList.h"
+
+1578345956 c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\control-de-empleados\lisba_libreria.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1533133022 c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\control-de-empleados\parser.h
+
+1574471089 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\control-de-empleados\employee.c
+	"Employee.h"
+	"LinkedList.h"
+
+1574112970 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\control-de-empleados\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1578346875 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\control-de-empleados\lisba_libreria.c
+	"Lisba_libreria.h"
+
+1578345417 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\control-de-empleados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1574473881 c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\control-de-empleados\controller.h
+
+1573172946 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\control-de-empleados\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
